@@ -18,17 +18,17 @@ from utils import (
 # Hyperparameters etc.
 LEARNING_RATE = 1e-4
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-BATCH_SIZE = 16
-NUM_EPOCHS = 100
-NUM_WORKERS = 5
+BATCH_SIZE = 8
+NUM_EPOCHS = 50
+NUM_WORKERS = 1
 IMAGE_HEIGHT = int(1003 * 0.32)   # 1003 originally
 IMAGE_WIDTH = int(1546 * 0.32)   # 1546 originally
 PIN_MEMORY = True
 LOAD_MODEL = False
-TRAIN_IMG_DIR = "/home/ridha/Documents/Capstone/data/dataset/data/train_images/"
-TRAIN_MASK_DIR = "/home/ridha/Documents/Capstone/data/dataset/data/train_masks/"
-VAL_IMG_DIR = "/home/ridha/Documents/Capstone/data/dataset/data/val_images/"
-VAL_MASK_DIR = "/home/ridha/Documents/Capstone/data/dataset/data/val_masks/"
+TRAIN_IMG_DIR = "/home/kashis/Desktop/misc/Capstone/raw_data/train"
+TRAIN_MASK_DIR = "/home/kashis/Desktop/misc/Capstone/raw_data/train"
+VAL_IMG_DIR = "/home/kashis/Desktop/misc/Capstone/raw_data/val"
+VAL_MASK_DIR = "/home/kashis/Desktop/misc/Capstone/raw_data/val"
  
 def train_fn(loader, model, optimizer, loss_fn, scaler):
     loop = tqdm(loader)
@@ -82,6 +82,7 @@ def main():
 
     model = UNET(in_channels=3, out_channels=1).to(DEVICE)
     loss_fn = nn.BCEWithLogitsLoss()
+    # loss_fn = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=LEARNING_RATE)
 
     train_loader, val_loader = get_loaders(
@@ -135,7 +136,7 @@ def main():
         val_losses.append(val_loss)
         # print some examples to a folder
         save_predictions_as_imgs(
-            val_loader, model, folder="saved_images1/", device=DEVICE)
+            val_loader, model, folder="saved_images/", device=DEVICE)
         print(f"Epoch {epoch} Train Loss: {train_loss} Val Loss: {val_loss}")
     plt.figure(figsize=(10, 5))
     plt.plot(train_losses, label='Training Loss')
@@ -144,7 +145,7 @@ def main():
     plt.ylabel('Loss')
     plt.legend()
     plt.title('Training vs Validation Loss')
-    plt.savefig('/home/ridha/Documents/Capstone/data/dataset/loss1.png')
+    plt.savefig('loss1.png')
     plt.show()
 
 if __name__ == "__main__":
