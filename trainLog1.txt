@@ -1,0 +1,1750 @@
+Got 59894929/67816320 with acc 88.32
+Dice score: 0.20343777537345886
+True Positives Percentage: 1.55%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.20%
+False Negatives Percentage: 10.48%
+Epoch 0 Train Loss: 0.5500337310411312 Val Loss: 0.4553946819570329
+Got 61234977/67816320 with acc 90.30
+Dice score: 0.5919090509414673
+True Positives Percentage: 7.16%
+True Negatives Percentage: 83.13%
+False Positives Percentage: 4.84%
+False Negatives Percentage: 4.86%
+Epoch 1 Train Loss: 0.428966513938374 Val Loss: 0.39469097057978314
+Got 61055301/67816320 with acc 90.03
+Dice score: 0.6090540885925293
+True Positives Percentage: 7.90%
+True Negatives Percentage: 82.13%
+False Positives Percentage: 5.84%
+False Negatives Percentage: 4.13%
+Epoch 2 Train Loss: 0.3878561639123493 Val Loss: 0.35193245388843397
+Got 61409014/67816320 with acc 90.55
+Dice score: 0.6167080998420715
+True Positives Percentage: 7.75%
+True Negatives Percentage: 82.80%
+False Positives Percentage: 5.17%
+False Negatives Percentage: 4.28%
+Epoch 3 Train Loss: 0.3657763167111962 Val Loss: 0.3267079172311006
+Got 61538521/67816320 with acc 90.74
+Dice score: 0.6290541887283325
+True Positives Percentage: 7.99%
+True Negatives Percentage: 82.75%
+False Positives Percentage: 5.22%
+False Negatives Percentage: 4.04%
+Epoch 4 Train Loss: 0.32940227648726217 Val Loss: 0.30126212150962267
+Got 61710037/67816320 with acc 91.00
+Dice score: 0.49731579422950745
+True Positives Percentage: 4.51%
+True Negatives Percentage: 86.48%
+False Positives Percentage: 1.49%
+False Negatives Percentage: 7.51%
+Epoch 5 Train Loss: 0.3033838009944669 Val Loss: 0.2724791318178177
+Got 61850605/67816320 with acc 91.20
+Dice score: 0.5921110510826111
+True Positives Percentage: 6.49%
+True Negatives Percentage: 84.71%
+False Positives Percentage: 3.26%
+False Negatives Percentage: 5.53%
+Epoch 6 Train Loss: 0.2830753469908679 Val Loss: 0.26601470786112325
+Got 62222434/67816320 with acc 91.75
+Dice score: 0.5992268323898315
+True Positives Percentage: 6.34%
+True Negatives Percentage: 85.41%
+False Positives Percentage: 2.56%
+False Negatives Percentage: 5.68%
+Epoch 7 Train Loss: 0.26545157600884084 Val Loss: 0.24585913452837202
+Got 62346629/67816320 with acc 91.93
+Dice score: 0.6069267988204956
+True Positives Percentage: 6.37%
+True Negatives Percentage: 85.57%
+False Positives Percentage: 2.41%
+False Negatives Percentage: 5.66%
+Epoch 8 Train Loss: 0.2511318661272526 Val Loss: 0.23101116440914296
+Got 62543618/67816320 with acc 92.23
+Dice score: 0.6177269816398621
+True Positives Percentage: 6.46%
+True Negatives Percentage: 85.77%
+False Positives Percentage: 2.21%
+False Negatives Percentage: 5.57%
+Epoch 9 Train Loss: 0.23933959917889702 Val Loss: 0.22392797028576886
+Got 62606573/67816320 with acc 92.32
+Dice score: 0.6615504622459412
+True Positives Percentage: 7.73%
+True Negatives Percentage: 84.59%
+False Positives Percentage: 3.39%
+False Negatives Percentage: 4.30%
+Epoch 10 Train Loss: 0.229357254449968 Val Loss: 0.21555324174739696
+Got 62726804/67816320 with acc 92.50
+Dice score: 0.6384401917457581
+True Positives Percentage: 6.76%
+True Negatives Percentage: 85.73%
+False Positives Percentage: 2.24%
+False Negatives Percentage: 5.26%
+Epoch 11 Train Loss: 0.2203909627817295 Val Loss: 0.20352247246989497
+Got 62795301/67816320 with acc 92.60
+Dice score: 0.6943296790122986
+True Positives Percentage: 8.63%
+True Negatives Percentage: 83.97%
+False Positives Percentage: 4.01%
+False Negatives Percentage: 3.40%
+Epoch 12 Train Loss: 0.21422238165029772 Val Loss: 0.19937804838021597
+Got 62938050/67816320 with acc 92.81
+Dice score: 0.6626875996589661
+True Positives Percentage: 7.28%
+True Negatives Percentage: 85.53%
+False Positives Percentage: 2.45%
+False Negatives Percentage: 4.75%
+Epoch 13 Train Loss: 0.20535051546714925 Val Loss: 0.19035317831569248
+Got 62847708/67816320 with acc 92.67
+Dice score: 0.6496458649635315
+True Positives Percentage: 6.97%
+True Negatives Percentage: 85.70%
+False Positives Percentage: 2.27%
+False Negatives Percentage: 5.05%
+Epoch 14 Train Loss: 0.19986493099066946 Val Loss: 0.1871158684845324
+Got 62995308/67816320 with acc 92.89
+Dice score: 0.6572206616401672
+True Positives Percentage: 7.05%
+True Negatives Percentage: 85.84%
+False Positives Percentage: 2.13%
+False Negatives Percentage: 4.98%
+Epoch 15 Train Loss: 0.1942511453396744 Val Loss: 0.18145738542079926
+Got 62999197/67816320 with acc 92.90
+Dice score: 0.6603327989578247
+True Positives Percentage: 7.11%
+True Negatives Percentage: 85.79%
+False Positives Percentage: 2.19%
+False Negatives Percentage: 4.92%
+Epoch 16 Train Loss: 0.18885778594348165 Val Loss: 0.17733630151660354
+Got 62934384/67816320 with acc 92.80
+Dice score: 0.6763591766357422
+True Positives Percentage: 7.75%
+True Negatives Percentage: 85.05%
+False Positives Percentage: 2.92%
+False Negatives Percentage: 4.28%
+Epoch 17 Train Loss: 0.1852167566065435 Val Loss: 0.17907214164733887
+Got 63154027/67816320 with acc 93.13
+Dice score: 0.6771674156188965
+True Positives Percentage: 7.38%
+True Negatives Percentage: 85.75%
+False Positives Percentage: 2.23%
+False Negatives Percentage: 4.65%
+Epoch 18 Train Loss: 0.18043135354916254 Val Loss: 0.16867929807415716
+Got 63423913/67816320 with acc 93.52
+Dice score: 0.699745774269104
+True Positives Percentage: 7.80%
+True Negatives Percentage: 85.73%
+False Positives Percentage: 2.25%
+False Negatives Percentage: 4.23%
+Epoch 19 Train Loss: 0.1749406854311625 Val Loss: 0.1622062968435111
+Got 63465930/67816320 with acc 93.59
+Dice score: 0.6970376372337341
+True Positives Percentage: 7.65%
+True Negatives Percentage: 85.94%
+False Positives Percentage: 2.04%
+False Negatives Percentage: 4.38%
+Epoch 20 Train Loss: 0.17086720590790114 Val Loss: 0.15926420357492235
+Got 63482943/67816320 with acc 93.61
+Dice score: 0.7176200151443481
+True Positives Percentage: 8.36%
+True Negatives Percentage: 85.25%
+False Positives Percentage: 2.73%
+False Negatives Percentage: 3.66%
+Epoch 21 Train Loss: 0.1680598202402945 Val Loss: 0.15946924714026628
+Got 63275841/67816320 with acc 93.30
+Dice score: 0.6671230792999268
+True Positives Percentage: 6.92%
+True Negatives Percentage: 86.38%
+False Positives Percentage: 1.59%
+False Negatives Percentage: 5.10%
+Epoch 22 Train Loss: 0.16284956169073228 Val Loss: 0.15986058943801457
+Got 63643134/67816320 with acc 93.85
+Dice score: 0.7237558960914612
+True Positives Percentage: 8.26%
+True Negatives Percentage: 85.59%
+False Positives Percentage: 2.39%
+False Negatives Percentage: 3.76%
+Epoch 23 Train Loss: 0.16124710709684426 Val Loss: 0.1534688607962043
+Got 63433265/67816320 with acc 93.54
+Dice score: 0.6700138449668884
+True Positives Percentage: 6.76%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.20%
+False Negatives Percentage: 5.26%
+Epoch 24 Train Loss: 0.15689826784310518 Val Loss: 0.15686022711020928
+Got 63751036/67816320 with acc 94.01
+Dice score: 0.7311859130859375
+True Positives Percentage: 8.40%
+True Negatives Percentage: 85.61%
+False Positives Percentage: 2.36%
+False Negatives Percentage: 3.63%
+Epoch 25 Train Loss: 0.1533558612206468 Val Loss: 0.14806430455711153
+Got 63731252/67816320 with acc 93.98
+Dice score: 0.7357314229011536
+True Positives Percentage: 8.65%
+True Negatives Percentage: 85.33%
+False Positives Percentage: 2.65%
+False Negatives Percentage: 3.38%
+Epoch 26 Train Loss: 0.15150285505310254 Val Loss: 0.14662815492462228
+Got 63813309/67816320 with acc 94.10
+Dice score: 0.7160133719444275
+True Positives Percentage: 7.69%
+True Negatives Percentage: 86.41%
+False Positives Percentage: 1.56%
+False Negatives Percentage: 4.34%
+Epoch 27 Train Loss: 0.1507031600922346 Val Loss: 0.14470723657696336
+Got 63816104/67816320 with acc 94.10
+Dice score: 0.7194930911064148
+True Positives Percentage: 7.74%
+True Negatives Percentage: 86.36%
+False Positives Percentage: 1.62%
+False Negatives Percentage: 4.28%
+Epoch 28 Train Loss: 0.14803586914031594 Val Loss: 0.14498079457768687
+Got 64266524/67816320 with acc 94.77
+Dice score: 0.7616949081420898
+True Positives Percentage: 8.62%
+True Negatives Percentage: 86.14%
+False Positives Percentage: 1.83%
+False Negatives Percentage: 3.40%
+Epoch 29 Train Loss: 0.1414574548188183 Val Loss: 0.130954893650832
+Got 63590598/67816320 with acc 93.77
+Dice score: 0.7027729153633118
+True Positives Percentage: 7.55%
+True Negatives Percentage: 86.22%
+False Positives Percentage: 1.76%
+False Negatives Percentage: 4.47%
+Epoch 30 Train Loss: 0.14118096232414246 Val Loss: 0.14989207878156943
+Got 64009243/67816320 with acc 94.39
+Dice score: 0.7490900158882141
+True Positives Percentage: 8.63%
+True Negatives Percentage: 85.76%
+False Positives Percentage: 2.22%
+False Negatives Percentage: 3.40%
+Epoch 31 Train Loss: 0.13612251859848146 Val Loss: 0.13968844904943747
+Got 63557997/67816320 with acc 93.72
+Dice score: 0.7115052342414856
+True Positives Percentage: 7.85%
+True Negatives Percentage: 85.87%
+False Positives Percentage: 2.11%
+False Negatives Percentage: 4.17%
+Epoch 32 Train Loss: 0.13654223739824914 Val Loss: 0.14798109233379364
+Got 64240428/67816320 with acc 94.73
+Dice score: 0.7535368800163269
+True Positives Percentage: 8.27%
+True Negatives Percentage: 86.46%
+False Positives Percentage: 1.52%
+False Negatives Percentage: 3.76%
+Epoch 33 Train Loss: 0.13570308568025077 Val Loss: 0.12948449756260272
+Got 64078450/67816320 with acc 94.49
+Dice score: 0.7324682474136353
+True Positives Percentage: 7.75%
+True Negatives Percentage: 86.74%
+False Positives Percentage: 1.24%
+False Negatives Percentage: 4.27%
+Epoch 34 Train Loss: 0.1303932685405016 Val Loss: 0.13704923761111718
+Got 64220917/67816320 with acc 94.70
+Dice score: 0.7649187445640564
+True Positives Percentage: 8.84%
+True Negatives Percentage: 85.86%
+False Positives Percentage: 2.11%
+False Negatives Percentage: 3.19%
+Epoch 35 Train Loss: 0.1291674622507007 Val Loss: 0.1298125375200201
+Got 63914618/67816320 with acc 94.25
+Dice score: 0.7287540435791016
+True Positives Percentage: 7.89%
+True Negatives Percentage: 86.35%
+False Positives Percentage: 1.62%
+False Negatives Percentage: 4.13%
+Epoch 36 Train Loss: 0.12814611844994403 Val Loss: 0.13750467863347796
+Got 64225007/67816320 with acc 94.70
+Dice score: 0.7664940357208252
+True Positives Percentage: 8.98%
+True Negatives Percentage: 85.72%
+False Positives Percentage: 2.25%
+False Negatives Percentage: 3.04%
+Epoch 37 Train Loss: 0.12318576113493354 Val Loss: 0.1298095581156236
+Got 64145535/67816320 with acc 94.59
+Dice score: 0.7635411024093628
+True Positives Percentage: 8.96%
+True Negatives Percentage: 85.63%
+False Positives Percentage: 2.34%
+False Negatives Percentage: 3.07%
+Epoch 38 Train Loss: 0.12036525333921115 Val Loss: 0.13329448164613159
+Got 64365988/67816320 with acc 94.91
+Dice score: 0.7554118037223816
+True Positives Percentage: 8.11%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.17%
+False Negatives Percentage: 3.92%
+Epoch 39 Train Loss: 0.12014561056814811 Val Loss: 0.12758092333873114
+Got 64050881/67816320 with acc 94.45
+Dice score: 0.7761110663414001
+True Positives Percentage: 9.90%
+True Negatives Percentage: 84.55%
+False Positives Percentage: 3.42%
+False Negatives Percentage: 2.13%
+Epoch 40 Train Loss: 0.11969528305861685 Val Loss: 0.13115704197574546
+Got 63431768/67816320 with acc 93.53
+Dice score: 0.6720449924468994
+True Positives Percentage: 6.74%
+True Negatives Percentage: 86.79%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 5.28%
+Epoch 41 Train Loss: 0.12240324086613125 Val Loss: 0.16888087215246977
+Got 64374516/67816320 with acc 94.92
+Dice score: 0.763059139251709
+True Positives Percentage: 8.37%
+True Negatives Percentage: 86.55%
+False Positives Percentage: 1.42%
+False Negatives Percentage: 3.65%
+Epoch 42 Train Loss: 0.1199271781714978 Val Loss: 0.12544904262931258
+Got 64468308/67816320 with acc 95.06
+Dice score: 0.7754099369049072
+True Positives Percentage: 8.73%
+True Negatives Percentage: 86.33%
+False Positives Percentage: 1.64%
+False Negatives Percentage: 3.29%
+Epoch 43 Train Loss: 0.1144003522478872 Val Loss: 0.12461700649173171
+Got 64433144/67816320 with acc 95.01
+Dice score: 0.7786741852760315
+True Positives Percentage: 8.98%
+True Negatives Percentage: 86.03%
+False Positives Percentage: 1.94%
+False Negatives Percentage: 3.04%
+Epoch 44 Train Loss: 0.11206805423178055 Val Loss: 0.12357630028768822
+Got 64432970/67816320 with acc 95.01
+Dice score: 0.7827457785606384
+True Positives Percentage: 9.24%
+True Negatives Percentage: 85.77%
+False Positives Percentage: 2.20%
+False Negatives Percentage: 2.78%
+Epoch 45 Train Loss: 0.11133219556951965 Val Loss: 0.12057177501696127
+Got 64101811/67816320 with acc 94.52
+Dice score: 0.7420273423194885
+True Positives Percentage: 8.01%
+True Negatives Percentage: 86.51%
+False Positives Percentage: 1.46%
+False Negatives Percentage: 4.01%
+Epoch 46 Train Loss: 0.10896690693442468 Val Loss: 0.13500523622389193
+Got 64306508/67816320 with acc 94.82
+Dice score: 0.7533031105995178
+True Positives Percentage: 8.15%
+True Negatives Percentage: 86.67%
+False Positives Percentage: 1.30%
+False Negatives Percentage: 3.88%
+Epoch 47 Train Loss: 0.10770487543885354 Val Loss: 0.12627603417193448
+Got 64433646/67816320 with acc 95.01
+Dice score: 0.7667703628540039
+True Positives Percentage: 8.40%
+True Negatives Percentage: 86.61%
+False Positives Percentage: 1.36%
+False Negatives Percentage: 3.63%
+Epoch 48 Train Loss: 0.10576290264725685 Val Loss: 0.12780555144504266
+Got 64351352/67816320 with acc 94.89
+Dice score: 0.7553874850273132
+True Positives Percentage: 8.09%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 3.93%
+Epoch 49 Train Loss: 0.10695974218348663 Val Loss: 0.13448301233627177
+Got 64818480/67816320 with acc 95.58
+Dice score: 0.8002824783325195
+True Positives Percentage: 9.13%
+True Negatives Percentage: 86.45%
+False Positives Percentage: 1.52%
+False Negatives Percentage: 2.90%
+Epoch 50 Train Loss: 0.10184905457275885 Val Loss: 0.11284854014714558
+Got 64648418/67816320 with acc 95.33
+Dice score: 0.799246609210968
+True Positives Percentage: 9.56%
+True Negatives Percentage: 85.77%
+False Positives Percentage: 2.20%
+False Negatives Percentage: 2.47%
+Epoch 51 Train Loss: 0.10009493609821354 Val Loss: 0.11782173398468229
+Got 64643751/67816320 with acc 95.32
+Dice score: 0.7801345586776733
+True Positives Percentage: 8.56%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 3.47%
+Epoch 52 Train Loss: 0.10211141228123947 Val Loss: 0.11580335017707613
+Got 64833345/67816320 with acc 95.60
+Dice score: 0.8055769801139832
+True Positives Percentage: 9.35%
+True Negatives Percentage: 86.25%
+False Positives Percentage: 1.72%
+False Negatives Percentage: 2.68%
+Epoch 53 Train Loss: 0.09620833114065507 Val Loss: 0.10751072179388117
+Got 64691769/67816320 with acc 95.39
+Dice score: 0.7875404953956604
+True Positives Percentage: 8.82%
+True Negatives Percentage: 86.57%
+False Positives Percentage: 1.41%
+False Negatives Percentage: 3.20%
+Epoch 54 Train Loss: 0.09794165283717492 Val Loss: 0.11230350865258111
+Got 64917004/67816320 with acc 95.72
+Dice score: 0.8096545934677124
+True Positives Percentage: 9.37%
+True Negatives Percentage: 86.36%
+False Positives Percentage: 1.62%
+False Negatives Percentage: 2.66%
+Epoch 55 Train Loss: 0.09719445828900293 Val Loss: 0.10624380851233448
+Got 64844135/67816320 with acc 95.62
+Dice score: 0.7990555167198181
+True Positives Percentage: 8.84%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.20%
+False Negatives Percentage: 3.18%
+Epoch 56 Train Loss: 0.09343918254254041 Val Loss: 0.10920719388458464
+Got 64750213/67816320 with acc 95.48
+Dice score: 0.7907025218009949
+True Positives Percentage: 8.74%
+True Negatives Percentage: 86.74%
+False Positives Percentage: 1.24%
+False Negatives Percentage: 3.28%
+Epoch 57 Train Loss: 0.09462071223943322 Val Loss: 0.1141393529596152
+Got 65100407/67816320 with acc 96.00
+Dice score: 0.8210831880569458
+True Positives Percentage: 9.39%
+True Negatives Percentage: 86.61%
+False Positives Percentage: 1.36%
+False Negatives Percentage: 2.64%
+Epoch 58 Train Loss: 0.09164069123842099 Val Loss: 0.10190478574346613
+Got 65096138/67816320 with acc 95.99
+Dice score: 0.8171818256378174
+True Positives Percentage: 9.20%
+True Negatives Percentage: 86.79%
+False Positives Percentage: 1.19%
+False Negatives Percentage: 2.82%
+Epoch 59 Train Loss: 0.09077643085685042 Val Loss: 0.10143780901476189
+Got 64929689/67816320 with acc 95.74
+Dice score: 0.8157904148101807
+True Positives Percentage: 9.74%
+True Negatives Percentage: 86.01%
+False Positives Percentage: 1.97%
+False Negatives Percentage: 2.29%
+Epoch 60 Train Loss: 0.09051661148529362 Val Loss: 0.10573574569490221
+Got 64927066/67816320 with acc 95.74
+Dice score: 0.8081125617027283
+True Positives Percentage: 9.19%
+True Negatives Percentage: 86.55%
+False Positives Percentage: 1.42%
+False Negatives Percentage: 2.84%
+Epoch 61 Train Loss: 0.0893265722250497 Val Loss: 0.10803407430648804
+Got 64901749/67816320 with acc 95.70
+Dice score: 0.8056268692016602
+True Positives Percentage: 9.03%
+True Negatives Percentage: 86.67%
+False Positives Percentage: 1.30%
+False Negatives Percentage: 2.99%
+Epoch 62 Train Loss: 0.08842317835876236 Val Loss: 0.10838006022903654
+Got 64989979/67816320 with acc 95.83
+Dice score: 0.8141707181930542
+True Positives Percentage: 9.36%
+True Negatives Percentage: 86.47%
+False Positives Percentage: 1.50%
+False Negatives Percentage: 2.66%
+Epoch 63 Train Loss: 0.08729456096059746 Val Loss: 0.1044669250647227
+Got 65198079/67816320 with acc 96.14
+Dice score: 0.832312285900116
+True Positives Percentage: 9.90%
+True Negatives Percentage: 86.24%
+False Positives Percentage: 1.73%
+False Negatives Percentage: 2.13%
+Epoch 64 Train Loss: 0.08615945541748295 Val Loss: 0.09898450197996916
+Got 64941772/67816320 with acc 95.76
+Dice score: 0.8108912110328674
+True Positives Percentage: 9.34%
+True Negatives Percentage: 86.42%
+False Positives Percentage: 1.56%
+False Negatives Percentage: 2.68%
+Epoch 65 Train Loss: 0.08421317777699894 Val Loss: 0.10629351381902341
+Got 65118846/67816320 with acc 96.02
+Dice score: 0.8262470364570618
+True Positives Percentage: 9.63%
+True Negatives Percentage: 86.39%
+False Positives Percentage: 1.58%
+False Negatives Percentage: 2.40%
+Epoch 66 Train Loss: 0.08417268080153952 Val Loss: 0.10137497081800743
+Got 65039503/67816320 with acc 95.91
+Dice score: 0.8119692802429199
+True Positives Percentage: 9.06%
+True Negatives Percentage: 86.85%
+False Positives Percentage: 1.13%
+False Negatives Percentage: 2.97%
+Epoch 67 Train Loss: 0.08382907985813087 Val Loss: 0.10505661285585827
+Got 64983058/67816320 with acc 95.82
+Dice score: 0.8162463903427124
+True Positives Percentage: 9.48%
+True Negatives Percentage: 86.34%
+False Positives Percentage: 1.63%
+False Negatives Percentage: 2.55%
+Epoch 68 Train Loss: 0.07977027490873027 Val Loss: 0.10224457802595915
+Got 65179007/67816320 with acc 96.11
+Dice score: 0.8230177760124207
+True Positives Percentage: 9.29%
+True Negatives Percentage: 86.82%
+False Positives Percentage: 1.15%
+False Negatives Percentage: 2.74%
+Epoch 69 Train Loss: 0.08277292039107394 Val Loss: 0.10373998681704204
+Got 65219860/67816320 with acc 96.17
+Dice score: 0.8350082635879517
+True Positives Percentage: 9.94%
+True Negatives Percentage: 86.23%
+False Positives Percentage: 1.74%
+False Negatives Percentage: 2.09%
+Epoch 70 Train Loss: 0.0812624535281901 Val Loss: 0.09809087603180497
+Got 65273941/67816320 with acc 96.25
+Dice score: 0.8382469415664673
+True Positives Percentage: 9.93%
+True Negatives Percentage: 86.32%
+False Positives Percentage: 1.65%
+False Negatives Percentage: 2.10%
+Epoch 71 Train Loss: 0.07815141679236183 Val Loss: 0.0980186661084493
+Got 65056610/67816320 with acc 95.93
+Dice score: 0.810194730758667
+True Positives Percentage: 8.98%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 3.05%
+Epoch 72 Train Loss: 0.07824166219129607 Val Loss: 0.10399306675902119
+Got 65251804/67816320 with acc 96.22
+Dice score: 0.833739697933197
+True Positives Percentage: 9.72%
+True Negatives Percentage: 86.50%
+False Positives Percentage: 1.48%
+False Negatives Percentage: 2.30%
+Epoch 73 Train Loss: 0.07943903989400025 Val Loss: 0.09702945900736032
+Got 65231269/67816320 with acc 96.19
+Dice score: 0.826297402381897
+True Positives Percentage: 9.24%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 2.79%
+Epoch 74 Train Loss: 0.07943737410284855 Val Loss: 0.09851719163082263
+Got 65243087/67816320 with acc 96.21
+Dice score: 0.8304579257965088
+True Positives Percentage: 9.47%
+True Negatives Percentage: 86.73%
+False Positives Percentage: 1.24%
+False Negatives Percentage: 2.55%
+Epoch 75 Train Loss: 0.07817448140984332 Val Loss: 0.09605811950233248
+Got 65314609/67816320 with acc 96.31
+Dice score: 0.8380728960037231
+True Positives Percentage: 9.67%
+True Negatives Percentage: 86.64%
+False Positives Percentage: 1.33%
+False Negatives Percentage: 2.35%
+Epoch 76 Train Loss: 0.07906809873465034 Val Loss: 0.09304304834869173
+Got 65430261/67816320 with acc 96.48
+Dice score: 0.8430750370025635
+True Positives Percentage: 9.72%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 2.30%
+Epoch 77 Train Loss: 0.07686619015617503 Val Loss: 0.09060378731400878
+Got 65333708/67816320 with acc 96.34
+Dice score: 0.8415840864181519
+True Positives Percentage: 9.86%
+True Negatives Percentage: 86.48%
+False Positives Percentage: 1.50%
+False Negatives Percentage: 2.17%
+Epoch 78 Train Loss: 0.07427925437136933 Val Loss: 0.09268135480858662
+Got 65048439/67816320 with acc 95.92
+Dice score: 0.8178229331970215
+True Positives Percentage: 9.33%
+True Negatives Percentage: 86.59%
+False Positives Percentage: 1.38%
+False Negatives Percentage: 2.70%
+Epoch 79 Train Loss: 0.07688558950192398 Val Loss: 0.10491123298803966
+Got 65351944/67816320 with acc 96.37
+Dice score: 0.8384596109390259
+True Positives Percentage: 9.62%
+True Negatives Percentage: 86.75%
+False Positives Percentage: 1.23%
+False Negatives Percentage: 2.41%
+Epoch 80 Train Loss: 0.07310529077356612 Val Loss: 0.09351415670028439
+Got 65261637/67816320 with acc 96.23
+Dice score: 0.8314417600631714
+True Positives Percentage: 9.50%
+True Negatives Percentage: 86.74%
+False Positives Percentage: 1.24%
+False Negatives Percentage: 2.53%
+Epoch 81 Train Loss: 0.07414062117674837 Val Loss: 0.09782076116513323
+Got 65273106/67816320 with acc 96.25
+Dice score: 0.8331531882286072
+True Positives Percentage: 9.58%
+True Negatives Percentage: 86.67%
+False Positives Percentage: 1.30%
+False Negatives Percentage: 2.45%
+Epoch 82 Train Loss: 0.07162443217304018 Val Loss: 0.096394384348834
+Got 65370792/67816320 with acc 96.39
+Dice score: 0.8498319983482361
+True Positives Percentage: 10.52%
+True Negatives Percentage: 85.87%
+False Positives Percentage: 2.10%
+False Negatives Percentage: 1.51%
+Epoch 83 Train Loss: 0.07277263083529693 Val Loss: 0.09051518983863018
+Got 65383280/67816320 with acc 96.41
+Dice score: 0.8375567197799683
+True Positives Percentage: 9.46%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 2.56%
+Epoch 84 Train Loss: 0.0715744537818763 Val Loss: 0.09638304649679749
+Got 65483231/67816320 with acc 96.56
+Dice score: 0.8483006358146667
+True Positives Percentage: 9.80%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 2.23%
+Epoch 85 Train Loss: 0.06707185092899534 Val Loss: 0.09075728072612374
+Got 65449319/67816320 with acc 96.51
+Dice score: 0.8421926498413086
+True Positives Percentage: 9.54%
+True Negatives Percentage: 86.97%
+False Positives Percentage: 1.00%
+False Negatives Percentage: 2.49%
+Epoch 86 Train Loss: 0.0686424442877372 Val Loss: 0.09464930549815849
+Got 65228236/67816320 with acc 96.18
+Dice score: 0.8247019052505493
+True Positives Percentage: 9.14%
+True Negatives Percentage: 87.04%
+False Positives Percentage: 0.93%
+False Negatives Percentage: 2.89%
+Epoch 87 Train Loss: 0.06703715874916977 Val Loss: 0.10317793460907759
+Got 65462590/67816320 with acc 96.53
+Dice score: 0.8445380330085754
+True Positives Percentage: 9.60%
+True Negatives Percentage: 86.93%
+False Positives Percentage: 1.05%
+False Negatives Percentage: 2.42%
+Epoch 88 Train Loss: 0.06852278754942948 Val Loss: 0.0910412100730119
+Got 65371114/67816320 with acc 96.39
+Dice score: 0.836901068687439
+True Positives Percentage: 9.46%
+True Negatives Percentage: 86.94%
+False Positives Percentage: 1.04%
+False Negatives Percentage: 2.57%
+Epoch 89 Train Loss: 0.06564485457622343 Val Loss: 0.09467917487577156
+Got 65321969/67816320 with acc 96.32
+Dice score: 0.8366744518280029
+True Positives Percentage: 9.62%
+True Negatives Percentage: 86.70%
+False Positives Percentage: 1.27%
+False Negatives Percentage: 2.40%
+Epoch 90 Train Loss: 0.06500917090172018 Val Loss: 0.09761848052342732
+Got 65504517/67816320 with acc 96.59
+Dice score: 0.8472998738288879
+True Positives Percentage: 9.72%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.10%
+False Negatives Percentage: 2.31%
+Epoch 91 Train Loss: 0.06448840943199617 Val Loss: 0.09043778465301902
+Got 65154669/67816320 with acc 96.08
+Dice score: 0.8217417597770691
+True Positives Percentage: 9.17%
+True Negatives Percentage: 86.90%
+False Positives Percentage: 1.07%
+False Negatives Percentage: 2.85%
+Epoch 92 Train Loss: 0.0646083169720239 Val Loss: 0.11389291452036963
+Got 65363511/67816320 with acc 96.38
+Dice score: 0.8385124206542969
+True Positives Percentage: 9.62%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 2.40%
+Epoch 93 Train Loss: 0.06457731793462126 Val Loss: 0.09609763186286997
+Got 65227979/67816320 with acc 96.18
+Dice score: 0.8270426392555237
+True Positives Percentage: 9.32%
+True Negatives Percentage: 86.87%
+False Positives Percentage: 1.11%
+False Negatives Percentage: 2.71%
+Epoch 94 Train Loss: 0.06559672748187075 Val Loss: 0.10621886879757599
+Got 65497616/67816320 with acc 96.58
+Dice score: 0.8536946177482605
+True Positives Percentage: 10.29%
+True Negatives Percentage: 86.29%
+False Positives Percentage: 1.69%
+False Negatives Percentage: 1.73%
+Epoch 95 Train Loss: 0.06552238683043807 Val Loss: 0.08949878190954526
+Got 65560650/67816320 with acc 96.67
+Dice score: 0.8573529124259949
+True Positives Percentage: 10.19%
+True Negatives Percentage: 86.48%
+False Positives Percentage: 1.49%
+False Negatives Percentage: 1.83%
+Epoch 96 Train Loss: 0.061651604181086575 Val Loss: 0.08916630209596069
+Got 65385538/67816320 with acc 96.42
+Dice score: 0.8417593240737915
+True Positives Percentage: 9.74%
+True Negatives Percentage: 86.68%
+False Positives Percentage: 1.30%
+False Negatives Percentage: 2.29%
+Epoch 97 Train Loss: 0.061850594011721785 Val Loss: 0.09556151360825256
+Got 65566992/67816320 with acc 96.68
+Dice score: 0.8552822470664978
+True Positives Percentage: 10.06%
+True Negatives Percentage: 86.62%
+False Positives Percentage: 1.35%
+False Negatives Percentage: 1.97%
+Epoch 98 Train Loss: 0.06387028118802442 Val Loss: 0.08575914455232797
+Got 65302259/67816320 with acc 96.29
+Dice score: 0.8295437693595886
+True Positives Percentage: 9.22%
+True Negatives Percentage: 87.07%
+False Positives Percentage: 0.90%
+False Negatives Percentage: 2.81%
+Epoch 99 Train Loss: 0.05979128313009386 Val Loss: 0.10390055621111835
+Got 65609528/67816320 with acc 96.75
+Dice score: 0.8608309030532837
+True Positives Percentage: 10.33%
+True Negatives Percentage: 86.41%
+False Positives Percentage: 1.56%
+False Negatives Percentage: 1.69%
+Epoch 100 Train Loss: 0.06482860514963115 Val Loss: 0.08281880465370638
+Got 65569110/67816320 with acc 96.69
+Dice score: 0.8537533283233643
+True Positives Percentage: 9.88%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.17%
+False Negatives Percentage: 2.14%
+Epoch 101 Train Loss: 0.061376737258224574 Val Loss: 0.08464491974424433
+Got 65361001/67816320 with acc 96.38
+Dice score: 0.8365172147750854
+True Positives Percentage: 9.37%
+True Negatives Percentage: 87.01%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 2.66%
+Epoch 102 Train Loss: 0.062183215420831134 Val Loss: 0.09850862622261047
+Got 65666233/67816320 with acc 96.83
+Dice score: 0.8611741065979004
+True Positives Percentage: 10.06%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 1.96%
+Epoch 103 Train Loss: 0.05878983141371497 Val Loss: 0.08479065185895672
+Got 65704205/67816320 with acc 96.89
+Dice score: 0.8695563673973083
+True Positives Percentage: 10.61%
+True Negatives Percentage: 86.27%
+False Positives Percentage: 1.70%
+False Negatives Percentage: 1.41%
+Epoch 104 Train Loss: 0.05647156056430605 Val Loss: 0.08055089000198576
+Got 65649173/67816320 with acc 96.80
+Dice score: 0.8563682436943054
+True Positives Percentage: 9.79%
+True Negatives Percentage: 87.02%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 2.24%
+Epoch 105 Train Loss: 0.05708411570500444 Val Loss: 0.08704011335417076
+Got 65663233/67816320 with acc 96.83
+Dice score: 0.8643836379051208
+True Positives Percentage: 10.30%
+True Negatives Percentage: 86.52%
+False Positives Percentage: 1.45%
+False Negatives Percentage: 1.72%
+Epoch 106 Train Loss: 0.05768867237148462 Val Loss: 0.08410054114129809
+Got 65671014/67816320 with acc 96.84
+Dice score: 0.8633361458778381
+True Positives Percentage: 10.19%
+True Negatives Percentage: 86.64%
+False Positives Percentage: 1.33%
+False Negatives Percentage: 1.83%
+Epoch 107 Train Loss: 0.06079195751981051 Val Loss: 0.08535967615467531
+Got 65225365/67816320 with acc 96.18
+Dice score: 0.8250561952590942
+True Positives Percentage: 9.15%
+True Negatives Percentage: 87.03%
+False Positives Percentage: 0.94%
+False Negatives Percentage: 2.88%
+Epoch 108 Train Loss: 0.061533266264531344 Val Loss: 0.10832554515865114
+Got 65448559/67816320 with acc 96.51
+Dice score: 0.8429149389266968
+True Positives Percentage: 9.56%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 2.47%
+Epoch 109 Train Loss: 0.058196778133235594 Val Loss: 0.09458099416008701
+Got 65534125/67816320 with acc 96.63
+Dice score: 0.8509050607681274
+True Positives Percentage: 9.81%
+True Negatives Percentage: 86.83%
+False Positives Percentage: 1.15%
+False Negatives Percentage: 2.22%
+Epoch 110 Train Loss: 0.054079360432095 Val Loss: 0.08823428827303427
+Got 65733848/67816320 with acc 96.93
+Dice score: 0.8685607314109802
+True Positives Percentage: 10.40%
+True Negatives Percentage: 86.53%
+False Positives Percentage: 1.44%
+False Negatives Percentage: 1.63%
+Epoch 111 Train Loss: 0.05630254498855383 Val Loss: 0.08422472590097675
+Got 65807906/67816320 with acc 97.04
+Dice score: 0.8714515566825867
+True Positives Percentage: 10.29%
+True Negatives Percentage: 86.74%
+False Positives Percentage: 1.23%
+False Negatives Percentage: 1.73%
+Epoch 112 Train Loss: 0.053956086850828595 Val Loss: 0.0816025099268666
+Got 65863748/67816320 with acc 97.12
+Dice score: 0.8768989443778992
+True Positives Percentage: 10.55%
+True Negatives Percentage: 86.57%
+False Positives Percentage: 1.40%
+False Negatives Percentage: 1.47%
+Epoch 113 Train Loss: 0.0533755988193055 Val Loss: 0.07964562528111317
+Got 65774525/67816320 with acc 96.99
+Dice score: 0.8687270283699036
+True Positives Percentage: 10.19%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.17%
+False Negatives Percentage: 1.84%
+Epoch 114 Train Loss: 0.052015877052865644 Val Loss: 0.07964140839046902
+Got 65648992/67816320 with acc 96.80
+Dice score: 0.8560804724693298
+True Positives Percentage: 9.69%
+True Negatives Percentage: 87.11%
+False Positives Percentage: 0.86%
+False Negatives Percentage: 2.33%
+Epoch 115 Train Loss: 0.05581744173886599 Val Loss: 0.09137309701354415
+Got 65670122/67816320 with acc 96.84
+Dice score: 0.8621082901954651
+True Positives Percentage: 10.21%
+True Negatives Percentage: 86.62%
+False Positives Percentage: 1.35%
+False Negatives Percentage: 1.81%
+Epoch 116 Train Loss: 0.054443562161867264 Val Loss: 0.08528683306994261
+Got 65601827/67816320 with acc 96.73
+Dice score: 0.8578224182128906
+True Positives Percentage: 10.02%
+True Negatives Percentage: 86.71%
+False Positives Percentage: 1.26%
+False Negatives Percentage: 2.00%
+Epoch 117 Train Loss: 0.05369493510160181 Val Loss: 0.09119902123455648
+Got 65792361/67816320 with acc 97.02
+Dice score: 0.8700624704360962
+True Positives Percentage: 10.26%
+True Negatives Percentage: 86.75%
+False Positives Percentage: 1.22%
+False Negatives Percentage: 1.76%
+Epoch 118 Train Loss: 0.05218283311222439 Val Loss: 0.08420436994896995
+Got 65281756/67816320 with acc 96.26
+Dice score: 0.8311449885368347
+True Positives Percentage: 9.20%
+True Negatives Percentage: 87.06%
+False Positives Percentage: 0.91%
+False Negatives Percentage: 2.82%
+Epoch 119 Train Loss: 0.052967983229016816 Val Loss: 0.10471182095783728
+Got 65658206/67816320 with acc 96.82
+Dice score: 0.8593586087226868
+True Positives Percentage: 10.03%
+True Negatives Percentage: 86.78%
+False Positives Percentage: 1.19%
+False Negatives Percentage: 1.99%
+Epoch 120 Train Loss: 0.050343489498589876 Val Loss: 0.0880971847584954
+Got 65810045/67816320 with acc 97.04
+Dice score: 0.8729868531227112
+True Positives Percentage: 10.33%
+True Negatives Percentage: 86.71%
+False Positives Percentage: 1.26%
+False Negatives Percentage: 1.69%
+Epoch 121 Train Loss: 0.05133328183243672 Val Loss: 0.08023248102377963
+Got 65674862/67816320 with acc 96.84
+Dice score: 0.861241340637207
+True Positives Percentage: 9.96%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 2.06%
+Epoch 122 Train Loss: 0.04933448199665657 Val Loss: 0.09291762831034484
+Got 65702136/67816320 with acc 96.88
+Dice score: 0.8613234758377075
+True Positives Percentage: 9.88%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 2.15%
+Epoch 123 Train Loss: 0.049317979253828526 Val Loss: 0.08712378585780109
+Got 65891526/67816320 with acc 97.16
+Dice score: 0.8776326179504395
+True Positives Percentage: 10.38%
+True Negatives Percentage: 86.78%
+False Positives Percentage: 1.20%
+False Negatives Percentage: 1.64%
+Epoch 124 Train Loss: 0.050775576624329445 Val Loss: 0.0798913294242488
+Got 65726736/67816320 with acc 96.92
+Dice score: 0.8657186627388
+True Positives Percentage: 10.13%
+True Negatives Percentage: 86.79%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 1.90%
+Epoch 125 Train Loss: 0.051181521646126556 Val Loss: 0.08598023680625139
+Got 65638298/67816320 with acc 96.79
+Dice score: 0.8617890477180481
+True Positives Percentage: 10.24%
+True Negatives Percentage: 86.55%
+False Positives Percentage: 1.43%
+False Negatives Percentage: 1.79%
+Epoch 126 Train Loss: 0.05015352421819612 Val Loss: 0.08774326714100661
+Got 65735057/67816320 with acc 96.93
+Dice score: 0.8620460629463196
+True Positives Percentage: 9.85%
+True Negatives Percentage: 87.08%
+False Positives Percentage: 0.89%
+False Negatives Percentage: 2.18%
+Epoch 127 Train Loss: 0.04929667593980277 Val Loss: 0.08766171432755611
+Got 65699534/67816320 with acc 96.88
+Dice score: 0.8652069568634033
+True Positives Percentage: 10.22%
+True Negatives Percentage: 86.66%
+False Positives Percentage: 1.32%
+False Negatives Percentage: 1.81%
+Epoch 128 Train Loss: 0.048848054044086625 Val Loss: 0.08136554448692887
+Got 65892994/67816320 with acc 97.16
+Dice score: 0.8747023940086365
+True Positives Percentage: 10.16%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 1.86%
+Epoch 129 Train Loss: 0.048930419574457186 Val Loss: 0.07711850465447814
+Got 65343582/67816320 with acc 96.35
+Dice score: 0.8352111577987671
+True Positives Percentage: 9.22%
+True Negatives Percentage: 87.13%
+False Positives Percentage: 0.84%
+False Negatives Percentage: 2.80%
+Epoch 130 Train Loss: 0.05274193549390744 Val Loss: 0.10727226968716692
+Got 65876031/67816320 with acc 97.14
+Dice score: 0.8762534260749817
+True Positives Percentage: 10.26%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 1.77%
+Epoch 131 Train Loss: 0.04826071290989165 Val Loss: 0.07753101984659831
+Got 65822787/67816320 with acc 97.06
+Dice score: 0.8722414970397949
+True Positives Percentage: 10.24%
+True Negatives Percentage: 86.82%
+False Positives Percentage: 1.16%
+False Negatives Percentage: 1.78%
+Epoch 132 Train Loss: 0.04806518339103571 Val Loss: 0.08170152248607741
+Got 65795187/67816320 with acc 97.02
+Dice score: 0.8688811659812927
+True Positives Percentage: 10.11%
+True Negatives Percentage: 86.91%
+False Positives Percentage: 1.07%
+False Negatives Percentage: 1.91%
+Epoch 133 Train Loss: 0.04774632344574288 Val Loss: 0.08740478064175006
+Got 65846566/67816320 with acc 97.10
+Dice score: 0.8720859289169312
+True Positives Percentage: 10.14%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 1.88%
+Epoch 134 Train Loss: 0.04798212111065233 Val Loss: 0.08046049555694615
+Got 65586367/67816320 with acc 96.71
+Dice score: 0.8513151407241821
+True Positives Percentage: 9.60%
+True Negatives Percentage: 87.11%
+False Positives Percentage: 0.86%
+False Negatives Percentage: 2.43%
+Epoch 135 Train Loss: 0.045079003967758685 Val Loss: 0.09622479920034055
+Got 65857632/67816320 with acc 97.11
+Dice score: 0.8749881982803345
+True Positives Percentage: 10.23%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 1.79%
+Epoch 136 Train Loss: 0.049899406317207545 Val Loss: 0.0848259307720043
+Got 65998379/67816320 with acc 97.32
+Dice score: 0.8844690322875977
+True Positives Percentage: 10.50%
+True Negatives Percentage: 86.81%
+False Positives Percentage: 1.16%
+False Negatives Percentage: 1.52%
+Epoch 137 Train Loss: 0.044964303676452905 Val Loss: 0.07418761678315976
+Got 65707273/67816320 with acc 96.89
+Dice score: 0.8638319969177246
+True Positives Percentage: 10.07%
+True Negatives Percentage: 86.82%
+False Positives Percentage: 1.16%
+False Negatives Percentage: 1.95%
+Epoch 138 Train Loss: 0.04693362335846932 Val Loss: 0.08581835583404258
+Got 65868695/67816320 with acc 97.13
+Dice score: 0.8759564161300659
+True Positives Percentage: 10.33%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 1.69%
+Epoch 139 Train Loss: 0.042669235125046084 Val Loss: 0.08588938966945366
+Got 65654407/67816320 with acc 96.81
+Dice score: 0.8592017292976379
+True Positives Percentage: 9.92%
+True Negatives Percentage: 86.89%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 2.10%
+Epoch 140 Train Loss: 0.04618518475305151 Val Loss: 0.09143815534534278
+Got 65810180/67816320 with acc 97.04
+Dice score: 0.8747107982635498
+True Positives Percentage: 10.57%
+True Negatives Percentage: 86.47%
+False Positives Percentage: 1.51%
+False Negatives Percentage: 1.45%
+Epoch 141 Train Loss: 0.04424044196666391 Val Loss: 0.08095015268082972
+Got 65765738/67816320 with acc 96.98
+Dice score: 0.8716282248497009
+True Positives Percentage: 10.41%
+True Negatives Percentage: 86.57%
+False Positives Percentage: 1.40%
+False Negatives Percentage: 1.62%
+Epoch 142 Train Loss: 0.044599175125498464 Val Loss: 0.08350460369277883
+Got 65705094/67816320 with acc 96.89
+Dice score: 0.8630701303482056
+True Positives Percentage: 9.93%
+True Negatives Percentage: 86.96%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 2.10%
+Epoch 143 Train Loss: 0.04334637032890761 Val Loss: 0.0943174660205841
+Got 65862456/67816320 with acc 97.12
+Dice score: 0.8735630512237549
+True Positives Percentage: 10.10%
+True Negatives Percentage: 87.02%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 1.92%
+Epoch 144 Train Loss: 0.04473263473698386 Val Loss: 0.08405702547342689
+Got 65695623/67816320 with acc 96.87
+Dice score: 0.8630549311637878
+True Positives Percentage: 10.03%
+True Negatives Percentage: 86.85%
+False Positives Percentage: 1.13%
+False Negatives Percentage: 2.00%
+Epoch 145 Train Loss: 0.045055199690439085 Val Loss: 0.08897051684282443
+Got 65687400/67816320 with acc 96.86
+Dice score: 0.8620074391365051
+True Positives Percentage: 10.03%
+True Negatives Percentage: 86.83%
+False Positives Percentage: 1.14%
+False Negatives Percentage: 2.00%
+Epoch 146 Train Loss: 0.042234331007219024 Val Loss: 0.08729601885985445
+Got 65659372/67816320 with acc 96.82
+Dice score: 0.8570582866668701
+True Positives Percentage: 9.63%
+True Negatives Percentage: 87.19%
+False Positives Percentage: 0.78%
+False Negatives Percentage: 2.40%
+Epoch 147 Train Loss: 0.04553361219802388 Val Loss: 0.09377483995976271
+Got 65777980/67816320 with acc 96.99
+Dice score: 0.8682937622070312
+True Positives Percentage: 10.09%
+True Negatives Percentage: 86.90%
+False Positives Percentage: 1.07%
+False Negatives Percentage: 1.93%
+Epoch 148 Train Loss: 0.04416642439793105 Val Loss: 0.08859638179893847
+Got 65598217/67816320 with acc 96.73
+Dice score: 0.8535748720169067
+True Positives Percentage: 9.65%
+True Negatives Percentage: 87.08%
+False Positives Percentage: 0.89%
+False Negatives Percentage: 2.38%
+Epoch 149 Train Loss: 0.04508647622747554 Val Loss: 0.09288562503125933
+Got 66104194/67816320 with acc 97.48
+Dice score: 0.8913196325302124
+True Positives Percentage: 10.55%
+True Negatives Percentage: 86.93%
+False Positives Percentage: 1.05%
+False Negatives Percentage: 1.48%
+Epoch 150 Train Loss: 0.041335989988443476 Val Loss: 0.07121326346640233
+Got 65709034/67816320 with acc 96.89
+Dice score: 0.8605008125305176
+True Positives Percentage: 9.75%
+True Negatives Percentage: 87.14%
+False Positives Percentage: 0.83%
+False Negatives Percentage: 2.27%
+Epoch 151 Train Loss: 0.04091360252695503 Val Loss: 0.09134109028511578
+Got 65844626/67816320 with acc 97.09
+Dice score: 0.8715521097183228
+True Positives Percentage: 10.02%
+True Negatives Percentage: 87.07%
+False Positives Percentage: 0.90%
+False Negatives Percentage: 2.00%
+Epoch 152 Train Loss: 0.041240023345583014 Val Loss: 0.08698339553342925
+Got 65935176/67816320 with acc 97.23
+Dice score: 0.8816428780555725
+True Positives Percentage: 10.47%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 1.56%
+Epoch 153 Train Loss: 0.04297279316449055 Val Loss: 0.080599929585501
+Got 65765530/67816320 with acc 96.98
+Dice score: 0.8671337366104126
+True Positives Percentage: 10.01%
+True Negatives Percentage: 86.96%
+False Positives Percentage: 1.01%
+False Negatives Percentage: 2.01%
+Epoch 154 Train Loss: 0.04195049191238703 Val Loss: 0.09208051322235002
+Got 65953037/67816320 with acc 97.25
+Dice score: 0.8804718255996704
+True Positives Percentage: 10.26%
+True Negatives Percentage: 86.99%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.76%
+Epoch 155 Train Loss: 0.04283645550754887 Val Loss: 0.08021818197987697
+Got 65835981/67816320 with acc 97.08
+Dice score: 0.8730020523071289
+True Positives Percentage: 10.30%
+True Negatives Percentage: 86.78%
+False Positives Percentage: 1.20%
+False Negatives Percentage: 1.73%
+Epoch 156 Train Loss: 0.04106302607666563 Val Loss: 0.08603158110269794
+Got 65632164/67816320 with acc 96.78
+Dice score: 0.8582621216773987
+True Positives Percentage: 9.98%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.17%
+False Negatives Percentage: 2.05%
+Epoch 157 Train Loss: 0.04143772400156767 Val Loss: 0.09050960190318248
+Got 65910264/67816320 with acc 97.19
+Dice score: 0.8782561421394348
+True Positives Percentage: 10.20%
+True Negatives Percentage: 86.99%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.82%
+Epoch 158 Train Loss: 0.04213097208627948 Val Loss: 0.0723575292914002
+Got 66020918/67816320 with acc 97.35
+Dice score: 0.8856590986251831
+True Positives Percentage: 10.52%
+True Negatives Percentage: 86.84%
+False Positives Percentage: 1.14%
+False Negatives Percentage: 1.51%
+Epoch 159 Train Loss: 0.03925903229456809 Val Loss: 0.07888029170808969
+Got 65665350/67816320 with acc 96.83
+Dice score: 0.8586466312408447
+True Positives Percentage: 9.83%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 2.20%
+Epoch 160 Train Loss: 0.040840464281953044 Val Loss: 0.08911720276982696
+Got 66010794/67816320 with acc 97.34
+Dice score: 0.8833973407745361
+True Positives Percentage: 10.35%
+True Negatives Percentage: 86.99%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.68%
+Epoch 161 Train Loss: 0.038820158362526586 Val Loss: 0.07831852469179365
+Got 65801023/67816320 with acc 97.03
+Dice score: 0.8665003180503845
+True Positives Percentage: 9.80%
+True Negatives Percentage: 87.22%
+False Positives Percentage: 0.75%
+False Negatives Percentage: 2.22%
+Epoch 162 Train Loss: 0.03889995746107565 Val Loss: 0.08351966435158695
+Got 65694283/67816320 with acc 96.87
+Dice score: 0.8625468015670776
+True Positives Percentage: 10.08%
+True Negatives Percentage: 86.79%
+False Positives Percentage: 1.19%
+False Negatives Percentage: 1.94%
+Epoch 163 Train Loss: 0.04175743510670684 Val Loss: 0.08890119746879295
+Got 66003368/67816320 with acc 97.33
+Dice score: 0.8859697580337524
+True Positives Percentage: 10.51%
+True Negatives Percentage: 86.82%
+False Positives Percentage: 1.15%
+False Negatives Percentage: 1.52%
+Epoch 164 Train Loss: 0.03997908943091278 Val Loss: 0.07587262105058741
+Got 65964574/67816320 with acc 97.27
+Dice score: 0.8856856226921082
+True Positives Percentage: 10.79%
+True Negatives Percentage: 86.48%
+False Positives Percentage: 1.49%
+False Negatives Percentage: 1.24%
+Epoch 165 Train Loss: 0.041475324494833196 Val Loss: 0.07502450904360523
+Got 65830925/67816320 with acc 97.07
+Dice score: 0.8731696009635925
+True Positives Percentage: 10.26%
+True Negatives Percentage: 86.81%
+False Positives Percentage: 1.16%
+False Negatives Percentage: 1.77%
+Epoch 166 Train Loss: 0.040686624279866614 Val Loss: 0.08412659568367181
+Got 65801760/67816320 with acc 97.03
+Dice score: 0.8684481978416443
+True Positives Percentage: 9.94%
+True Negatives Percentage: 87.09%
+False Positives Percentage: 0.88%
+False Negatives Percentage: 2.09%
+Epoch 167 Train Loss: 0.03870597342029214 Val Loss: 0.09065959381836432
+Got 65775571/67816320 with acc 96.99
+Dice score: 0.86497563123703
+True Positives Percentage: 9.86%
+True Negatives Percentage: 87.13%
+False Positives Percentage: 0.84%
+False Negatives Percentage: 2.17%
+Epoch 168 Train Loss: 0.039686249275864276 Val Loss: 0.09235847092888973
+Got 65925558/67816320 with acc 97.21
+Dice score: 0.8771388530731201
+True Positives Percentage: 10.26%
+True Negatives Percentage: 86.96%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 1.77%
+Epoch 169 Train Loss: 0.04105003986990562 Val Loss: 0.08075597661512869
+Got 65966798/67816320 with acc 97.27
+Dice score: 0.8807724714279175
+True Positives Percentage: 10.24%
+True Negatives Percentage: 87.04%
+False Positives Percentage: 0.94%
+False Negatives Percentage: 1.79%
+Epoch 170 Train Loss: 0.03822958726366913 Val Loss: 0.0812778541887248
+Got 65865824/67816320 with acc 97.12
+Dice score: 0.8734855055809021
+True Positives Percentage: 10.18%
+True Negatives Percentage: 86.94%
+False Positives Percentage: 1.04%
+False Negatives Percentage: 1.84%
+Epoch 171 Train Loss: 0.03847708742789648 Val Loss: 0.07926228656261056
+Got 66031577/67816320 with acc 97.37
+Dice score: 0.8870236277580261
+True Positives Percentage: 10.62%
+True Negatives Percentage: 86.75%
+False Positives Percentage: 1.23%
+False Negatives Percentage: 1.40%
+Epoch 172 Train Loss: 0.03966572051177974 Val Loss: 0.07718027327899579
+Got 65986297/67816320 with acc 97.30
+Dice score: 0.8856818079948425
+True Positives Percentage: 10.71%
+True Negatives Percentage: 86.60%
+False Positives Percentage: 1.38%
+False Negatives Percentage: 1.32%
+Epoch 173 Train Loss: 0.039471169364535146 Val Loss: 0.07867470631996791
+Got 65767260/67816320 with acc 96.98
+Dice score: 0.8639141321182251
+True Positives Percentage: 9.87%
+True Negatives Percentage: 87.10%
+False Positives Percentage: 0.87%
+False Negatives Percentage: 2.15%
+Epoch 174 Train Loss: 0.03859564301523345 Val Loss: 0.09430636437954726
+Got 66026995/67816320 with acc 97.36
+Dice score: 0.8869398236274719
+True Positives Percentage: 10.60%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 1.43%
+Epoch 175 Train Loss: 0.03908451110193575 Val Loss: 0.07290203372637431
+Got 66076597/67816320 with acc 97.43
+Dice score: 0.8917998671531677
+True Positives Percentage: 10.98%
+True Negatives Percentage: 86.45%
+False Positives Percentage: 1.52%
+False Negatives Percentage: 1.04%
+Epoch 176 Train Loss: 0.036984441301750916 Val Loss: 0.07445607541335954
+Got 66019231/67816320 with acc 97.35
+Dice score: 0.8835329413414001
+True Positives Percentage: 10.37%
+True Negatives Percentage: 86.98%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.66%
+Epoch 177 Train Loss: 0.03828367665065108 Val Loss: 0.08232460653892269
+Got 65982442/67816320 with acc 97.30
+Dice score: 0.8807717561721802
+True Positives Percentage: 10.23%
+True Negatives Percentage: 87.06%
+False Positives Percentage: 0.91%
+False Negatives Percentage: 1.79%
+Epoch 178 Train Loss: 0.03877999931918802 Val Loss: 0.0795949538824735
+Got 65884755/67816320 with acc 97.15
+Dice score: 0.8752368688583374
+True Positives Percentage: 10.22%
+True Negatives Percentage: 86.94%
+False Positives Percentage: 1.04%
+False Negatives Percentage: 1.81%
+Epoch 179 Train Loss: 0.035457545753430436 Val Loss: 0.08721823107313227
+Got 65995117/67816320 with acc 97.31
+Dice score: 0.8832682371139526
+True Positives Percentage: 10.42%
+True Negatives Percentage: 86.89%
+False Positives Percentage: 1.08%
+False Negatives Percentage: 1.60%
+Epoch 180 Train Loss: 0.036900343683858715 Val Loss: 0.07819015353366181
+Got 66002241/67816320 with acc 97.33
+Dice score: 0.8831204175949097
+True Positives Percentage: 10.31%
+True Negatives Percentage: 87.01%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 1.71%
+Epoch 181 Train Loss: 0.036535886788947716 Val Loss: 0.08380285167583713
+Got 65940315/67816320 with acc 97.23
+Dice score: 0.8761565685272217
+True Positives Percentage: 10.01%
+True Negatives Percentage: 87.23%
+False Positives Percentage: 0.75%
+False Negatives Percentage: 2.02%
+Epoch 182 Train Loss: 0.03597840238190084 Val Loss: 0.08591364393079723
+Got 66048034/67816320 with acc 97.39
+Dice score: 0.8864730596542358
+True Positives Percentage: 10.51%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 1.52%
+Epoch 183 Train Loss: 0.03325040114146692 Val Loss: 0.08277216940014451
+Got 66043495/67816320 with acc 97.39
+Dice score: 0.8858153223991394
+True Positives Percentage: 10.44%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.03%
+False Negatives Percentage: 1.59%
+Epoch 184 Train Loss: 0.03454429963258682 Val Loss: 0.07856406036902357
+Got 65884164/67816320 with acc 97.15
+Dice score: 0.8761629462242126
+True Positives Percentage: 10.38%
+True Negatives Percentage: 86.77%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 1.64%
+Epoch 185 Train Loss: 0.035350119695067406 Val Loss: 0.0816100837179908
+Got 66108443/67816320 with acc 97.48
+Dice score: 0.8899585008621216
+True Positives Percentage: 10.39%
+True Negatives Percentage: 87.10%
+False Positives Percentage: 0.88%
+False Negatives Percentage: 1.64%
+Epoch 186 Train Loss: 0.03576887397233535 Val Loss: 0.07391646325036332
+Got 65982524/67816320 with acc 97.30
+Dice score: 0.8869503736495972
+True Positives Percentage: 10.80%
+True Negatives Percentage: 86.49%
+False Positives Percentage: 1.48%
+False Negatives Percentage: 1.22%
+Epoch 187 Train Loss: 0.034640811590684786 Val Loss: 0.07861760438040451
+Got 66001145/67816320 with acc 97.32
+Dice score: 0.8834933638572693
+True Positives Percentage: 10.48%
+True Negatives Percentage: 86.84%
+False Positives Percentage: 1.14%
+False Negatives Percentage: 1.54%
+Epoch 188 Train Loss: 0.036117731472822254 Val Loss: 0.08021778227002532
+Got 65927742/67816320 with acc 97.22
+Dice score: 0.8801382184028625
+True Positives Percentage: 10.43%
+True Negatives Percentage: 86.79%
+False Positives Percentage: 1.19%
+False Negatives Percentage: 1.60%
+Epoch 189 Train Loss: 0.0367220887672846 Val Loss: 0.08048557365934055
+Got 65869153/67816320 with acc 97.13
+Dice score: 0.8731064200401306
+True Positives Percentage: 10.13%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.98%
+False Negatives Percentage: 1.89%
+Epoch 190 Train Loss: 0.03389742423745769 Val Loss: 0.08974546000913337
+Got 66079279/67816320 with acc 97.44
+Dice score: 0.8900002241134644
+True Positives Percentage: 10.67%
+True Negatives Percentage: 86.76%
+False Positives Percentage: 1.21%
+False Negatives Percentage: 1.35%
+Epoch 191 Train Loss: 0.032638925300152215 Val Loss: 0.07440839942406725
+Got 66101948/67816320 with acc 97.47
+Dice score: 0.8905627131462097
+True Positives Percentage: 10.60%
+True Negatives Percentage: 86.87%
+False Positives Percentage: 1.11%
+False Negatives Percentage: 1.42%
+Epoch 192 Train Loss: 0.03446755765212907 Val Loss: 0.07323538953507389
+Got 65976782/67816320 with acc 97.29
+Dice score: 0.8821293115615845
+True Positives Percentage: 10.40%
+True Negatives Percentage: 86.89%
+False Positives Percentage: 1.08%
+False Negatives Percentage: 1.63%
+Epoch 193 Train Loss: 0.03504888261495917 Val Loss: 0.0818451696799861
+Got 66091729/67816320 with acc 97.46
+Dice score: 0.892533540725708
+True Positives Percentage: 10.81%
+True Negatives Percentage: 86.65%
+False Positives Percentage: 1.32%
+False Negatives Percentage: 1.22%
+Epoch 194 Train Loss: 0.035690205188951 Val Loss: 0.07630936842825678
+Got 66005736/67816320 with acc 97.33
+Dice score: 0.8810611963272095
+True Positives Percentage: 10.20%
+True Negatives Percentage: 87.13%
+False Positives Percentage: 0.84%
+False Negatives Percentage: 1.83%
+Epoch 195 Train Loss: 0.034102443191740245 Val Loss: 0.08602851739636173
+Got 65965551/67816320 with acc 97.27
+Dice score: 0.8816983103752136
+True Positives Percentage: 10.37%
+True Negatives Percentage: 86.90%
+False Positives Percentage: 1.07%
+False Negatives Percentage: 1.66%
+Epoch 196 Train Loss: 0.03392623670192228 Val Loss: 0.08661916824402632
+Got 66040313/67816320 with acc 97.38
+Dice score: 0.8882739543914795
+True Positives Percentage: 10.72%
+True Negatives Percentage: 86.66%
+False Positives Percentage: 1.32%
+False Negatives Percentage: 1.30%
+Epoch 197 Train Loss: 0.03581317329641293 Val Loss: 0.07751690154826199
+Got 66037855/67816320 with acc 97.38
+Dice score: 0.8860886096954346
+True Positives Percentage: 10.38%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 1.65%
+Epoch 198 Train Loss: 0.032105591924240194 Val Loss: 0.08140662781618259
+Got 66047669/67816320 with acc 97.39
+Dice score: 0.8865992426872253
+True Positives Percentage: 10.44%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 1.59%
+Epoch 199 Train Loss: 0.03316553349227265 Val Loss: 0.08027241199656769
+Got 65744229/67816320 with acc 96.94
+Dice score: 0.8633109331130981
+True Positives Percentage: 9.89%
+True Negatives Percentage: 87.06%
+False Positives Percentage: 0.92%
+False Negatives Percentage: 2.14%
+Epoch 200 Train Loss: 0.03203764054234381 Val Loss: 0.09309401390729127
+Got 66070767/67816320 with acc 97.43
+Dice score: 0.8875591158866882
+True Positives Percentage: 10.41%
+True Negatives Percentage: 87.01%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 1.61%
+Epoch 201 Train Loss: 0.03724387824466383 Val Loss: 0.07662718977641177
+Got 66106663/67816320 with acc 97.48
+Dice score: 0.8919466733932495
+True Positives Percentage: 10.75%
+True Negatives Percentage: 86.73%
+False Positives Percentage: 1.25%
+False Negatives Percentage: 1.28%
+Epoch 202 Train Loss: 0.034069694889088474 Val Loss: 0.08076519877822311
+Got 66104285/67816320 with acc 97.48
+Dice score: 0.8884231448173523
+True Positives Percentage: 10.39%
+True Negatives Percentage: 87.08%
+False Positives Percentage: 0.89%
+False Negatives Percentage: 1.63%
+Epoch 203 Train Loss: 0.03463928523921856 Val Loss: 0.07903675528036223
+Got 66109124/67816320 with acc 97.48
+Dice score: 0.8906177878379822
+True Positives Percentage: 10.59%
+True Negatives Percentage: 86.90%
+False Positives Percentage: 1.08%
+False Negatives Percentage: 1.44%
+Epoch 204 Train Loss: 0.032819311807139054 Val Loss: 0.07474654954340723
+Got 65896887/67816320 with acc 97.17
+Dice score: 0.8752241134643555
+True Positives Percentage: 10.17%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 1.86%
+Epoch 205 Train Loss: 0.03326847697435706 Val Loss: 0.08530962122259317
+Got 66005815/67816320 with acc 97.33
+Dice score: 0.8840407729148865
+True Positives Percentage: 10.29%
+True Negatives Percentage: 87.04%
+False Positives Percentage: 0.94%
+False Negatives Percentage: 1.73%
+Epoch 206 Train Loss: 0.03355137143215096 Val Loss: 0.07857439280660064
+Got 66154097/67816320 with acc 97.55
+Dice score: 0.891959011554718
+True Positives Percentage: 10.35%
+True Negatives Percentage: 87.20%
+False Positives Percentage: 0.78%
+False Negatives Percentage: 1.68%
+Epoch 207 Train Loss: 0.0336397583079007 Val Loss: 0.07088603024129514
+Got 66057539/67816320 with acc 97.41
+Dice score: 0.888329267501831
+True Positives Percentage: 10.57%
+True Negatives Percentage: 86.84%
+False Positives Percentage: 1.13%
+False Negatives Percentage: 1.46%
+Epoch 208 Train Loss: 0.031353753301556465 Val Loss: 0.08082045173203503
+Got 66048960/67816320 with acc 97.39
+Dice score: 0.8848829865455627
+True Positives Percentage: 10.26%
+True Negatives Percentage: 87.14%
+False Positives Percentage: 0.84%
+False Negatives Percentage: 1.77%
+Epoch 209 Train Loss: 0.03339014766323897 Val Loss: 0.07943027121601282
+Got 66105311/67816320 with acc 97.48
+Dice score: 0.891930103302002
+True Positives Percentage: 10.64%
+True Negatives Percentage: 86.84%
+False Positives Percentage: 1.14%
+False Negatives Percentage: 1.39%
+Epoch 210 Train Loss: 0.032588314489220026 Val Loss: 0.07521108455128139
+Got 66217933/67816320 with acc 97.64
+Dice score: 0.8976452350616455
+True Positives Percentage: 10.58%
+True Negatives Percentage: 87.07%
+False Positives Percentage: 0.91%
+False Negatives Percentage: 1.45%
+Epoch 211 Train Loss: 0.0321323009190598 Val Loss: 0.07174393493268225
+Got 66076748/67816320 with acc 97.43
+Dice score: 0.886674702167511
+True Positives Percentage: 10.40%
+True Negatives Percentage: 87.04%
+False Positives Percentage: 0.94%
+False Negatives Percentage: 1.63%
+Epoch 212 Train Loss: 0.03192096348437998 Val Loss: 0.07521086462118008
+Got 66082165/67816320 with acc 97.44
+Dice score: 0.8896712064743042
+True Positives Percentage: 10.56%
+True Negatives Percentage: 86.88%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 1.47%
+Epoch 213 Train Loss: 0.03273421713082051 Val Loss: 0.07468522960940997
+Got 66137967/67816320 with acc 97.53
+Dice score: 0.8955693244934082
+True Positives Percentage: 10.97%
+True Negatives Percentage: 86.56%
+False Positives Percentage: 1.42%
+False Negatives Percentage: 1.06%
+Epoch 214 Train Loss: 0.03279433097621357 Val Loss: 0.0734407686524921
+Got 65968069/67816320 with acc 97.27
+Dice score: 0.8792737126350403
+True Positives Percentage: 10.20%
+True Negatives Percentage: 87.07%
+False Positives Percentage: 0.90%
+False Negatives Percentage: 1.83%
+Epoch 215 Train Loss: 0.031598637708359294 Val Loss: 0.08658121553836046
+Got 66005078/67816320 with acc 97.33
+Dice score: 0.8831255435943604
+True Positives Percentage: 10.39%
+True Negatives Percentage: 86.94%
+False Positives Percentage: 1.04%
+False Negatives Percentage: 1.63%
+Epoch 216 Train Loss: 0.03466649932993783 Val Loss: 0.08437172682197006
+Got 66033641/67816320 with acc 97.37
+Dice score: 0.8864600658416748
+True Positives Percentage: 10.48%
+True Negatives Percentage: 86.89%
+False Positives Percentage: 1.09%
+False Negatives Percentage: 1.54%
+Epoch 217 Train Loss: 0.0331719025141663 Val Loss: 0.07369202002882957
+Got 65981930/67816320 with acc 97.30
+Dice score: 0.8819060325622559
+True Positives Percentage: 10.34%
+True Negatives Percentage: 86.96%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 1.69%
+Epoch 218 Train Loss: 0.03065202443825978 Val Loss: 0.08422747199182157
+Got 66179786/67816320 with acc 97.59
+Dice score: 0.8966025710105896
+True Positives Percentage: 10.75%
+True Negatives Percentage: 86.83%
+False Positives Percentage: 1.14%
+False Negatives Percentage: 1.27%
+Epoch 219 Train Loss: 0.032992765186699455 Val Loss: 0.07226429507136345
+Got 65988261/67816320 with acc 97.30
+Dice score: 0.8836092948913574
+True Positives Percentage: 10.30%
+True Negatives Percentage: 87.01%
+False Positives Percentage: 0.97%
+False Negatives Percentage: 1.73%
+Epoch 220 Train Loss: 0.032233562889612384 Val Loss: 0.08174039768400015
+Got 66047948/67816320 with acc 97.39
+Dice score: 0.8875808119773865
+True Positives Percentage: 10.44%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.02%
+False Negatives Percentage: 1.59%
+Epoch 221 Train Loss: 0.030741041224380886 Val Loss: 0.07616303212664745
+Got 65930231/67816320 with acc 97.22
+Dice score: 0.8754492402076721
+True Positives Percentage: 9.99%
+True Negatives Percentage: 87.23%
+False Positives Percentage: 0.75%
+False Negatives Percentage: 2.03%
+Epoch 222 Train Loss: 0.03169050831692638 Val Loss: 0.09057029998964733
+Got 66185587/67816320 with acc 97.60
+Dice score: 0.8970457911491394
+True Positives Percentage: 10.78%
+True Negatives Percentage: 86.82%
+False Positives Percentage: 1.16%
+False Negatives Percentage: 1.25%
+Epoch 223 Train Loss: 0.029572721148185706 Val Loss: 0.07425229009930734
+Got 66191152/67816320 with acc 97.60
+Dice score: 0.8955290913581848
+True Positives Percentage: 10.59%
+True Negatives Percentage: 87.01%
+False Positives Percentage: 0.96%
+False Negatives Percentage: 1.43%
+Epoch 224 Train Loss: 0.031504306459316504 Val Loss: 0.07604450580698473
+Got 66140266/67816320 with acc 97.53
+Dice score: 0.8940094113349915
+True Positives Percentage: 10.73%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 1.29%
+Epoch 225 Train Loss: 0.03024620393774024 Val Loss: 0.07423437952443405
+Got 66099073/67816320 with acc 97.47
+Dice score: 0.889398455619812
+True Positives Percentage: 10.50%
+True Negatives Percentage: 86.96%
+False Positives Percentage: 1.01%
+False Negatives Percentage: 1.52%
+Epoch 226 Train Loss: 0.030782466081695423 Val Loss: 0.08276968573530515
+Got 66090640/67816320 with acc 97.46
+Dice score: 0.8882962465286255
+True Positives Percentage: 10.36%
+True Negatives Percentage: 87.10%
+False Positives Percentage: 0.88%
+False Negatives Percentage: 1.67%
+Epoch 227 Train Loss: 0.03119848296046257 Val Loss: 0.0804864417899538
+Got 66171466/67816320 with acc 97.57
+Dice score: 0.8937774300575256
+True Positives Percentage: 10.58%
+True Negatives Percentage: 87.00%
+False Positives Percentage: 0.98%
+False Negatives Percentage: 1.45%
+Epoch 228 Train Loss: 0.029442546285550902 Val Loss: 0.07646792119851818
+Got 65941214/67816320 with acc 97.24
+Dice score: 0.8842158317565918
+True Positives Percentage: 10.73%
+True Negatives Percentage: 86.50%
+False Positives Percentage: 1.47%
+False Negatives Percentage: 1.29%
+Epoch 229 Train Loss: 0.030720401382832614 Val Loss: 0.07922301082699387
+Got 65909400/67816320 with acc 97.19
+Dice score: 0.8741545081138611
+True Positives Percentage: 9.97%
+True Negatives Percentage: 87.22%
+False Positives Percentage: 0.75%
+False Negatives Percentage: 2.06%
+Epoch 230 Train Loss: 0.02871701461090534 Val Loss: 0.09328061769957896
+Got 66003297/67816320 with acc 97.33
+Dice score: 0.8824092149734497
+True Positives Percentage: 10.24%
+True Negatives Percentage: 87.09%
+False Positives Percentage: 0.89%
+False Negatives Percentage: 1.79%
+Epoch 231 Train Loss: 0.03227447344128181 Val Loss: 0.08316829331495144
+Got 66033412/67816320 with acc 97.37
+Dice score: 0.8882870078086853
+True Positives Percentage: 10.72%
+True Negatives Percentage: 86.65%
+False Positives Percentage: 1.32%
+False Negatives Percentage: 1.30%
+Epoch 232 Train Loss: 0.03362528122616587 Val Loss: 0.07469012063962442
+Got 65979109/67816320 with acc 97.29
+Dice score: 0.8811312317848206
+True Positives Percentage: 10.35%
+True Negatives Percentage: 86.95%
+False Positives Percentage: 1.03%
+False Negatives Percentage: 1.68%
+Epoch 233 Train Loss: 0.035691097318367275 Val Loss: 0.08533691394108313
+Got 65972618/67816320 with acc 97.28
+Dice score: 0.8819314241409302
+True Positives Percentage: 10.48%
+True Negatives Percentage: 86.80%
+False Positives Percentage: 1.18%
+False Negatives Percentage: 1.54%
+Epoch 234 Train Loss: 0.029347679500157636 Val Loss: 0.08081584285806727
+Got 66201637/67816320 with acc 97.62
+Dice score: 0.8985295295715332
+True Positives Percentage: 10.77%
+True Negatives Percentage: 86.85%
+False Positives Percentage: 1.13%
+False Negatives Percentage: 1.25%
+Epoch 235 Train Loss: 0.027232593011662917 Val Loss: 0.07246371427619899
+Got 66050171/67816320 with acc 97.40
+Dice score: 0.8862190842628479
+True Positives Percentage: 10.34%
+True Negatives Percentage: 87.05%
+False Positives Percentage: 0.92%
+False Negatives Percentage: 1.68%
+Epoch 236 Train Loss: 0.028150777815392724 Val Loss: 0.08089375233760586
+Got 66124401/67816320 with acc 97.51
+Dice score: 0.8925834894180298
+True Positives Percentage: 10.64%
+True Negatives Percentage: 86.86%
+False Positives Percentage: 1.11%
+False Negatives Percentage: 1.38%
+Epoch 237 Train Loss: 0.029814323936416594 Val Loss: 0.07637055949480445
+Got 66235947/67816320 with acc 97.67
+Dice score: 0.8992319703102112
+True Positives Percentage: 10.68%
+True Negatives Percentage: 86.99%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.34%
+Epoch 238 Train Loss: 0.02766906797747921 Val Loss: 0.0740176838029314
+Got 66106308/67816320 with acc 97.48
+Dice score: 0.8922231793403625
+True Positives Percentage: 10.63%
+True Negatives Percentage: 86.85%
+False Positives Percentage: 1.13%
+False Negatives Percentage: 1.39%
+Epoch 239 Train Loss: 0.028282835320742043 Val Loss: 0.07771353051066399
+Got 66251228/67816320 with acc 97.69
+Dice score: 0.9010708928108215
+True Positives Percentage: 10.78%
+True Negatives Percentage: 86.91%
+False Positives Percentage: 1.07%
+False Negatives Percentage: 1.24%
+Epoch 240 Train Loss: 0.031148598029243725 Val Loss: 0.07282336470153597
+Got 66117201/67816320 with acc 97.49
+Dice score: 0.8902322053909302
+True Positives Percentage: 10.43%
+True Negatives Percentage: 87.06%
+False Positives Percentage: 0.91%
+False Negatives Percentage: 1.59%
+Epoch 241 Train Loss: 0.032144776062556994 Val Loss: 0.08031084664441922
+Got 65955128/67816320 with acc 97.26
+Dice score: 0.8787508010864258
+True Positives Percentage: 10.10%
+True Negatives Percentage: 87.16%
+False Positives Percentage: 0.81%
+False Negatives Percentage: 1.93%
+Epoch 242 Train Loss: 0.029138498991313908 Val Loss: 0.08819876293893214
+Got 66015825/67816320 with acc 97.35
+Dice score: 0.8836700916290283
+True Positives Percentage: 10.36%
+True Negatives Percentage: 86.98%
+False Positives Percentage: 0.99%
+False Negatives Percentage: 1.66%
+Epoch 243 Train Loss: 0.028441066439780924 Val Loss: 0.07484614918077434
+Got 66150422/67816320 with acc 97.54
+Dice score: 0.8918043971061707
+True Positives Percentage: 10.46%
+True Negatives Percentage: 87.09%
+False Positives Percentage: 0.89%
+False Negatives Percentage: 1.57%
+Epoch 244 Train Loss: 0.02949421478573371 Val Loss: 0.07938794253600968
+Got 66035705/67816320 with acc 97.37
+Dice score: 0.8841297030448914
+True Positives Percentage: 10.17%
+True Negatives Percentage: 87.20%
+False Positives Percentage: 0.77%
+False Negatives Percentage: 1.85%
+Epoch 245 Train Loss: 0.02963813583159612 Val Loss: 0.08160901028248999
+Got 66174387/67816320 with acc 97.58
+Dice score: 0.8943062424659729
+True Positives Percentage: 10.50%
+True Negatives Percentage: 87.08%
+False Positives Percentage: 0.90%
+False Negatives Percentage: 1.53%
+Epoch 246 Train Loss: 0.028202153380132385 Val Loss: 0.0769379155503379
+Got 66196089/67816320 with acc 97.61
+Dice score: 0.8947975039482117
+True Positives Percentage: 10.56%
+True Negatives Percentage: 87.05%
+False Positives Percentage: 0.92%
+False Negatives Percentage: 1.47%
+Epoch 247 Train Loss: 0.02595890441874939 Val Loss: 0.08052524537951858
+Got 66220251/67816320 with acc 97.65
+Dice score: 0.8983477354049683
+True Positives Percentage: 10.84%
+True Negatives Percentage: 86.81%
+False Positives Percentage: 1.17%
+False Negatives Percentage: 1.19%
+Epoch 248 Train Loss: 0.028350496216228715 Val Loss: 0.07420542477457612
+Got 66162777/67816320 with acc 97.56
+Dice score: 0.8924156427383423
+True Positives Percentage: 10.37%
+True Negatives Percentage: 87.19%
+False Positives Percentage: 0.78%
+False Negatives Percentage: 1.65%
+Epoch 249 Train Loss: 0.02893462095030204 Val Loss: 0.07727878388983232

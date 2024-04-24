@@ -14,8 +14,9 @@ class CarvanaDataset(Dataset):
         return len(self.images)
 
     def __getitem__(self, index):
-        img_path = os.path.join(self.image_dir, self.images[index])
-        mask_path = os.path.join(self.mask_dir, self.images[index].replace(".jpg", "_mask.gif"))
+        img_filename = self.images[index]
+        img_path = os.path.join(self.image_dir, img_filename)
+        mask_path = os.path.join(self.mask_dir, img_filename.replace(".jpg", "_mask.gif"))
         image = np.array(Image.open(img_path).convert("RGB"))
         mask = np.array(Image.open(mask_path).convert("L"), dtype=np.float32)
         mask[mask == 255.0] = 1.0
@@ -25,4 +26,4 @@ class CarvanaDataset(Dataset):
             image = augmentations["image"]
             mask = augmentations["mask"]
 
-        return image, mask
+        return image, mask, img_filename

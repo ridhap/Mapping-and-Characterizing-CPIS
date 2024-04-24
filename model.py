@@ -31,15 +31,15 @@ class UNET(nn.Module):
 
         # Down part of UNET
         for feature in features:
-            self.downs.append(DoubleConv(in_channels, feature))
+            self.downs.append(DoubleConv(in_channels, feature, dropout=False))
             in_channels = feature
 
         # Up part of UNET
         for feature in reversed(features):
             self.ups.append(nn.ConvTranspose2d(feature * 2, feature, kernel_size=2, stride=2))
-            self.ups.append(DoubleConv(feature * 2, feature))
+            self.ups.append(DoubleConv(feature * 2, feature, dropout=False))
 
-        self.bottleneck = DoubleConv(features[-1], features[-1] * 2)
+        self.bottleneck = DoubleConv(features[-1], features[-1] * 2, dropout=False)
         self.final_conv = nn.Conv2d(features[0], out_channels, kernel_size=1)
 
     def forward(self, x):
