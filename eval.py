@@ -108,36 +108,57 @@ y_true = []
 y_pred = []
 y_scores = []
 
+overlap_counter = {
+    0.25: 0,
+    0.5: 0,
+    0.75: 0,
+    0.95: 0
+}
+
+
 with torch.no_grad():
-    for x, y,_ in tqdm(val_loader):
-        x = x.to(DEVICE)
-        y = y.to(DEVICE).unsqueeze(1)
-        preds = model(x)
-        loss = criterion(preds, y)
-        preds = torch.sigmoid(preds)
-        preds = (preds > 0.5).float()
-        scores = torch.sigmoid(preds).cpu().numpy().flatten()  # These are the scores we need
-        y_scores.extend(scores)
-        total_loss += loss.item()
-        num_correct += (preds == y).sum()
-        num_pixels += torch.numel(preds)
-        dice_score += (2 * (preds * y).sum()) / ((preds + y).sum() + 1e-8)
-        TP += ((preds == 1) & (y == 1)).sum()
-        FP += ((preds == 1) & (y == 0)).sum()
-        FN += ((preds == 0) & (y == 1)).sum()
-        TN += ((preds == 0) & (y == 0)).sum()
-        # for i in range(len(preds)): 
-        #     if y[i]==preds[i]==1:
-        #         TP += 1
-        #     if preds[i]==1 and y[i]!=preds[i]:
-        #         FP += 1
-        #     if y[i]==preds[i]==0:
-        #         TN += 1
-        #     if preds[i]==0 and y[i]!=preds[i]:
-        #         FN += 1
-        # y_true.extend(y.cpu())
-        y_true.extend(y.cpu().numpy().flatten())
-        y_pred.extend(preds.cpu().numpy().flatten())
+
+    for overlap_key in overlap_counter.keys():
+        for x, y,_ in tqdm(val_loader):
+            x = x.to(DEVICE)
+            y = y.to(DEVICE).unsqueeze(1)
+            preds = model(x)
+            loss = criterion(preds, y)
+            preds = torch.sigmoid(preds)
+            preds = (preds > 0.5).float()
+            scores = torch.sigmoid(preds).cpu().numpy().flatten()  # These are the scores we need
+            y_scores.extend(scores)
+            total_loss += loss.item()
+            num_correct += (preds == y).sum()
+            num_pixels += torch.numel(preds)
+            dice_score += (2 * (preds * y).sum()) / ((preds + y).sum() + 1e-8)
+
+            for i in range(len(preds)):
+                total_gt = (y[i] == 1).sum().cpu().numpy().flatten()[0]
+
+                pixels_matched = ((preds[i] == 1) & (y[i] == 1)).sum().cpu().numpy().flatten()[0]
+                _x_percent_total_ones_in_gt = overlap_key * total_gt
+
+                if pixels_matched >= _x_percent_total_ones_in_gt:
+                    overlap_counter[overlap_key] += 1
+
+
+            TP += ((preds == 1) & (y == 1)).sum()
+            FP += ((preds == 1) & (y == 0)).sum()
+            FN += ((preds == 0) & (y == 1)).sum()
+            TN += ((preds == 0) & (y == 0)).sum()
+            # for i in range(len(preds)): 
+            #     if y[i]==preds[i]==1:
+            #         TP += 1
+            #     if preds[i]==1 and y[i]!=preds[i]:
+            #         FP += 1
+            #     if y[i]==preds[i]==0:
+            #         TN += 1
+            #     if preds[i]==0 and y[i]!=preds[i]:
+            #         FN += 1
+            # y_true.extend(y.cpu())
+            y_true.extend(y.cpu().numpy().flatten())
+            y_pred.extend(preds.cpu().numpy().flatten())
 
 
 diceScore = diceScore.append(dice_score / len(val_loader))
